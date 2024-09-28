@@ -1,0 +1,10 @@
+https://github.com/chrismcfee/awesome-mpv
+https://gitlab.com/lvml/mpv-plugin-xrandr
+https://github.com/wiiaboo/mpv-scripts/tree/master
+https://mpv.io/manual/master/
+https://www.baeldung.com/linux/irqbalance-modern-hardware
+https://github.com/Tsubajashi/mpv-settings
+https://github.com/mpv-player/mpv-build
+https://github.com/chrismcfee/MPVProfiles
+https://github.com/mpv-player/mpv/issues/10424
+https://askubuntu.com/questions/1475569/problem-with-nvidia-smi-nvtop-nvcc-ubuntu-22-04-hybrid-gpu
